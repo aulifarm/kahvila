@@ -1,5 +1,7 @@
 # Kahvila
 
+Angular exercise. Hosted [here](https://aulifarm.github.io/kahvila/).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 ## Development server
